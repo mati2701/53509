@@ -1,0 +1,4 @@
+mientras falso {
+  imprimir("Esto no se va a ejecutar");
+}
+imprimir("Fin del script");

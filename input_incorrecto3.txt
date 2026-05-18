@@ -1,0 +1,2 @@
+imprimir("A continuación... un símbolo nunca antes visto!")
+°;

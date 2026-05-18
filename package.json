@@ -1,0 +1,21 @@
+{
+  "name": "analizador-antlr4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generar": "node_modules/antlr4-cli/cli.js -Dlanguage=JavaScript -visitor Gramatica.g4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "antlr4": "^4.13.2"
+  },
+  "devDependencies": {
+    "antlr4-cli": "^4.5.3",
+    "antlr4ng-cli": "^2.0.0"
+  }
+}

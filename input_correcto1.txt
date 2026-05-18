@@ -1,0 +1,4 @@
+imprimir("Iniciando programa de prueba uno");
+mientras verdadero {
+  imprimir("Todo marcha bien");
+}
